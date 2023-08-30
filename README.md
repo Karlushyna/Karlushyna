@@ -1,6 +1,6 @@
 
 <div>
-<img src="https://drive.google.com/drive/u/0/folders/1VA75Nm7bFBrnzqGgGLi01OTImNezYnL-"/>
+<img src="./img/title.png"/>
  </div>
  <p>I'm a frontend developer with a passion for creating beautiful and responsive user interfaces. I believe in continuous learning and I am always looking for ways to improve my skills and stay up-to-date with the latest technologies. In my free time, I enjoy working on personal coding projects and exploring new design trends. </p>
 
