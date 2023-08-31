@@ -26,6 +26,14 @@ Languages and Tools :
 
 </div>
 
+| Name of Project          | Description                 | Technologies Used         | GitHub Link                        |
+|--------------------------|-----------------------------|--------------------------|------------------------------------|
+| Movie Library App        | Search and store favorite   | JS, npm packages, SCSS   | [GitHub Repo](https://github.com/username/movie-library)   |
+|                          | movies in a personal library|                          |                                    |
+| Lab Equipment Catalog App| Browse and select           | HTML, CSS, JavaScript    | [GitHub Repo](https://github.com/username/lab-equipment) |
+|                          | laboratory equipment        | npm packages, SCSS       |                                    |
+| Your Project Name        | Your project's description  | Technologies Used         | [GitHub Repo](https://github.com/username/your-project)  |
+|                          | goes here                   | go here                  |                                    |
 
 <!--
 **Karlushyna/Karlushyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
