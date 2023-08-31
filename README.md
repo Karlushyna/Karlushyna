@@ -4,7 +4,7 @@
  </div>
  <p>I'm a frontend developer with a passion for creating beautiful and responsive user interfaces. In my free time, I enjoy working on personal coding projects and exploring new design trends. </p>
 
-Languages and Tools :
+## Languages and Tools :
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -26,10 +26,12 @@ Languages and Tools :
 
 </div>
 
+## Projects
+
 | Name of Project          | Description                 | Technologies Used         | GitHub Link                        |
 |--------------------------|-----------------------------|--------------------------|------------------------------------|
 | Movie Library App        | Search and store favorite   | JS, npm packages, SCSS   | [GitHub Repo](https://github.com/username/movie-library)   |
-|                          | movies in a personal library|                          |                                    |
+| Movie Library App                         | movies in a personal library|                          |                                    |
 | Lab Equipment Catalog App| Browse and select           | HTML, CSS, JavaScript    | [GitHub Repo](https://github.com/username/lab-equipment) |
 |                          | laboratory equipment        | npm packages, SCSS       |                                    |
 | Your Project Name        | Your project's description  | Technologies Used         | [GitHub Repo](https://github.com/username/your-project)  |
