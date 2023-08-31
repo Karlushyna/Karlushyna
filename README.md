@@ -3,6 +3,8 @@
 <img src="./img/title.png"/>
  </div>
  <p>I'm a frontend developer with a passion for creating beautiful and responsive user interfaces. In my free time, I enjoy working on personal coding projects and exploring new design trends. </p>
+ 
+## Summary 
 
 ## Languages and Tools :
  <div>
@@ -26,15 +28,22 @@
 
 </div>
 
+## Skills
+### Technical Skills 
+-
+-
+
+### Soft Skills
+
 ## Projects
 
 | Name of Project          | Description                 | Technologies Used         |  Link                        |
 |--------------------------|-----------------------------|--------------------------|------------------------------------|
-| Lab Equipment Catalog App        | The app features an extensive catalog showcasing a wide array of laboratory tools and instruments   | HTML, CSS, JavaScript   | (https://github.com/Karlushyna/LAB-EQUIP)   |
+| Lab Equipment Catalog App        | The app features an extensive catalog showcasing a wide array of laboratory tools and instruments   | HTML, CSS, JavaScript   | [Link](https://github.com/Karlushyna/LAB-EQUIP)   |
 | Petbridge                         | movies in a personal library|                          |                                    |
-| Movie Library App | Search and store favorite movies in a personal library          | HTML, SCSS, JavaScript    | (https://github.com/Karlushyna/Filmoteka-project |
-|  Barbershop                        | This app provides a user-friendly platform for booking your haircuts and managing your hair grooming appointments seamlessly.        | HTML, SASS, JavaScript   |  (https://github.com/Karlushyna/Barbershop)   |
-| Your Project Name        | Your project's description  | Technologies Used         | [GitHub Repo](https://github.com/username/your-project)  |
+| Movie Library App | Search and store favorite movies in a personal library          | HTML, SCSS, JavaScript    | [Link](https://github.com/Karlushyna/Filmoteka-project |
+|  Barbershop                        | This app provides a user-friendly platform for booking your haircuts and managing your hair grooming appointments seamlessly.        | HTML, SASS, JavaScript   |  [Link](https://github.com/Karlushyna/Barbershop)   |
+| Your Project Name        | Your project's description  | Technologies Used         | [Link](https://github.com/username/your-project)  |
 |                          | goes here                   | go here                  |                                    |
 
 <!--
