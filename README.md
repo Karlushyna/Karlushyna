@@ -4,8 +4,6 @@
  </div>
  <p>I'm a frontend developer with a passion for creating beautiful and responsive user interfaces. In my free time, I enjoy working on personal coding projects and exploring new design trends. </p>
  
-## Summary 
-
 ## Languages and Tools :
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
